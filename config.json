@@ -1,0 +1,7 @@
+{
+    "zcoinEthAddress" : "0x42F63b392eA930d17B7b2d8f978B7Ac92A1cc9dA",
+    "zcoinBscAddress" : "0x4D723ef60eBBe4132657c555855f7481CD819Aea",
+    "bridgeEthAddress" : "0x70F9d5a9E4325eAbEA113a0a4487591Ca17463be",
+    "bridgeBscAddress" : "0xfD652546968FF120F98B530d3aadB3B398F10654",
+    "validatorAddress" : "0x624c31357a67344f6d0278a6ef1F839E2136D735"
+}
